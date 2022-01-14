@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/socketio-chess/static/css/main.294af2a6.css",
+    "main.js": "/socketio-chess/static/js/main.3604e309.js",
+    "static/js/787.070db070.chunk.js": "/socketio-chess/static/js/787.070db070.chunk.js",
+    "index.html": "/socketio-chess/index.html",
+    "main.294af2a6.css.map": "/socketio-chess/static/css/main.294af2a6.css.map",
+    "main.3604e309.js.map": "/socketio-chess/static/js/main.3604e309.js.map",
+    "787.070db070.chunk.js.map": "/socketio-chess/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.294af2a6.css",
+    "static/js/main.3604e309.js"
+  ]
+}
